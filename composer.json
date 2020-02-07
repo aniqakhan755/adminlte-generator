@@ -12,7 +12,7 @@
         "fideloper/proxy": "^4.0",
         "laravel/framework": "^6.0",
         "laravel/tinker": "^1.0",
-        "aniqakhan755/laravel-generator": "6.0.x-dev",
+        "infyomlabs/laravel-generator": "6.0.x-dev",
         "aniqakhan755/adminlte-templates": "dev-master",
         "laravelcollective/html": "^6.0",
         "doctrine/dbal": "~2.3",
